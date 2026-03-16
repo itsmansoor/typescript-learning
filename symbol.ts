@@ -1,0 +1,1 @@
+let id: symbol = Symbol("userId");
