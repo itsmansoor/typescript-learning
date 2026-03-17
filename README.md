@@ -1,1 +1,1 @@
-This repository documents my learning and practice of TypeScript. It covers fundamental concepts including primitive types, arrays, tuples, objects, functions, and TypeScript configuration. Each concept is implemented with simple examples to understand how TypeScript improves JavaScript with static typing.
+This repository documents my learning and practice of TypeScript. It covers fundamental concepts including Each and Everything About TypeScript
